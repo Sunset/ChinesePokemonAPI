@@ -1,0 +1,22 @@
+{
+    "pokedex" : [
+        {
+            "id" : 1,
+            "Pikachu":
+            {
+                "chineseTraditional" : "阿貝多",
+                "chineseSimplified" : "阿贝多",
+                "pingying" : "Ā bèi duō"
+            }
+        },
+        {
+            "id" : 2,
+            "Raichu":
+            {
+                "chineseTraditional" : "燃烧",
+                "chineseSimplified" : "燃烧",
+                "pingying" : "Raichu"
+            }
+        }
+    ]
+}
