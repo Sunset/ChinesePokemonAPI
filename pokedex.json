@@ -17,6 +17,15 @@
                 "chineseSimplified" : "燃烧",
                 "pingying" : "Raichu"
             }
+        },
+        {
+            "id" : 3,
+            "OtherChu":
+            {
+                "chineseTraditional" : "",
+                "chineseSimplified" : "",
+                "pingying" : "asdfasd"
+            }
         }
     ]
 }
