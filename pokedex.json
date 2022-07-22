@@ -8,11 +8,13 @@
             "pingying" : "pinyingPikachu",
             "fightingMoves" : [
                 {
+                    "id" : 1,
                     "move1" : "power1",
                     "explanation1" : "explanation1",
                     "affinity1" : "affinity1"
                 },
                 {
+                    "id" : 2,
                     "move2" : "power2",
                     "explanation2" : "explanation2",
                     "affinity2" : "affinity2"
