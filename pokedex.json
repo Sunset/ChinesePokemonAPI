@@ -2,30 +2,22 @@
     "pokedex" : [
         {
             "id" : 1,
-            "Pikachu":
-            {
-                "chineseTraditional" : "阿貝多",
-                "chineseSimplified" : "阿贝多",
-                "pingying" : "Ā bèi duō"
-            }
-        },
-        {
-            "id" : 2,
-            "Raichu":
-            {
-                "chineseTraditional" : "燃烧",
-                "chineseSimplified" : "燃烧",
-                "pingying" : "Raichu"
-            }
-        },
-        {
-            "id" : 3,
-            "OtherChu":
-            {
-                "chineseTraditional" : "",
-                "chineseSimplified" : "",
-                "pingying" : "asdfasd"
-            }
+            "englishName" : "Pikachu",
+            "chineseTraditional" : "阿貝多",
+            "chineseSimplified" : "阿贝多",
+            "pingying" : "pinyingPikachu",
+            "fightingMoves" : [
+                {
+                    "move1" : "power1",
+                    "explanation1" : "explanation1",
+                    "affinity1" : "affinity1"
+                },
+                {
+                    "move2" : "power2",
+                    "explanation2" : "explanation2",
+                    "affinity2" : "affinity2"
+                }
+            ]
         }
     ]
 }
